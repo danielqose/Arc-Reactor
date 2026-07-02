@@ -22,7 +22,6 @@ Hardware
 * WS2812B (NeoPixel) LED ring
 * 3D printed Arc Reactor housing
 * Power supply (5V)
-
 Software
 
 * Arduino IDE
@@ -32,5 +31,4 @@ Software
 * WiFi
 * WiFiManager
 
-* 
 
